@@ -1,4 +1,7 @@
-# The Secret Code Generator
+# The Secret Code Generator 🔥
+![](https://img.shields.io/twitter/follow/IamAbir82?color=Black&label=Abir%20Bhattacharya&logo=Twitter&logoColor=Blue&style=flat-square)
+![](https://img.shields.io/github/forks/abirbhattacharya82/Secret-Code?color=green&label=Forks&logo=github&logoColor=white&style=plastic)
+![](https://img.shields.io/github/stars/abirbhattacharya82/Secret-Code?color=green&label=Stars&logo=github&logoColor=white&style=plastic)
 ## About:
 An Encoding and Decoding machine where the sentence to be encoded is entered by the user and on clicking the right button the text is either encoded or decoded in a special form.
 To know more check [how the encryption is working](working.md)
